@@ -1,0 +1,1 @@
+accept string input using scanner
